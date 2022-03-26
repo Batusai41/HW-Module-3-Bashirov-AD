@@ -1,6 +1,6 @@
 [на главную страницу](./readme.md)
 
-[на предыдущую страницу](git%20add.md)
+[на предыдущую страницу](/git%20commit.md)
 
 
 
@@ -16,4 +16,4 @@
 ```
 git clone https://github.com/avsudnichnikov/example
 ```
-[на следующую страницу](git%20commit.md)
+[на следующую страницу](git%20pull.md)

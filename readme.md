@@ -7,11 +7,11 @@
 ---
 
 ### **Содержание**:
-1. [git init]()
+1. [git init](git%20init.md)
 2. [git add](git%20add.md)
-3. [git commit]()
-4. [git clone]()
-5. [git pull]()
+3. [git commit](git%20commit.md)
+4. [git clone](git%20clone.md)
+5. [git pull](git%20pull.md)
 
 
 ---
