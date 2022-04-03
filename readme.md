@@ -1,8 +1,10 @@
 # Инструкция по работе с GIT
+
 ## Основные операции.
 
 ![GIT-Logo](./Assets/GIT-Logo-1-3719.jpg)
 *LICENCE: [GNU](licence.md)*<br>
+*<sub>Version from 04.03.22</sub>*
 
 ---
 
