@@ -7,18 +7,18 @@
 ---
 
 ### **Содержание**:
-1. [git init](git%20init.md)
-2. [git add](git%20add.md)
-3. [git commit](git%20commit.md)
-4. [git clone](git%20clone.md)
-5. [git pull](git%20pull.md) <br>
-   5.1. [git merge](git%20merge.md)<br>
-   5.2. [git fetch](git%20fetch.md)
-6. [git remote add](git%20remoteadd.md)
-7. [git push](git%20push.md)
-8. [git status](git%20push.md)
-9. [git log](git%20push.md)
-10. [git show](git%20push.md)
+1. [Git init](git%20init.md)
+2. [Git add](git%20add.md)
+3. [Git commit](git%20commit.md)
+4. [Git clone](git%20clone.md)
+5. [Git pull](git%20pull.md) <br>
+   5.1. [Git merge](git%20merge.md)<br>
+   5.2. [Git fetch](git%20fetch.md)
+6. [Git remote add](git%20remoteadd.md)
+7. [Git push](git%20push.md)
+8. [Git status](git%20status.md)
+9. [Git log](git%20log.md)
+10. [Git show](git%20show.md)
 
 
 
