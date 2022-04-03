@@ -12,13 +12,13 @@
 3. [git commit](git%20commit.md)
 4. [git clone](git%20clone.md)
 5. [git pull](git%20pull.md) <br>
-   5.1. [git merge](git%20pull.md)<br>
-   5.2. [git fetch](git%20pull.md)
+   5.1. [git merge](git%20merge.md)<br>
+   5.2. [git fetch](git%20fetch.md)
+6. [git remote add](git%20remoteadd.md)
 7. 
 8. 
 9. 
 10. 
-11. 
 
 
 
