@@ -15,7 +15,7 @@
    5.1. [git merge](git%20merge.md)<br>
    5.2. [git fetch](git%20fetch.md)
 6. [git remote add](git%20remoteadd.md)
-7. 
+7. [git push](git%20push.md)
 8. 
 9. 
 10. 

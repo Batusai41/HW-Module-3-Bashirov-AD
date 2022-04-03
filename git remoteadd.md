@@ -12,3 +12,4 @@
 git remote add origin https://github.com/avsudnichnikov/example
 ```
 
+<---[на предыдущую страницу](git%20fetch.md) <br>--->[на следующую страницу](git%20push.md)
