@@ -26,5 +26,5 @@
 
 
 
-*Git logo: https://logowiki.net/git-logo.html*<br>
-*Licence: [GNU Version 1.3](https://www.gnu.org/licenses/fdl-1.3.ru.html)*
+>*Git logo: https://logowiki.net/git-logo.html*<br>
+>*Licence: [GNU Version 1.3](https://www.gnu.org/licenses/fdl-1.3.ru.html)* 
