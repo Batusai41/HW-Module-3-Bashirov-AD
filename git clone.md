@@ -1,9 +1,5 @@
 [на главную страницу](./readme.md)
 
-[на предыдущую страницу](/git%20commit.md)
-
-
-
 ---
 ## git clone
 
@@ -16,4 +12,5 @@
 ```
 git clone https://github.com/avsudnichnikov/example
 ```
-[на следующую страницу](git%20pull.md)
+<---[на предыдущую страницу](/git%20commit.md) <br>
+--->[на следующую страницу](git%20pull.md)
