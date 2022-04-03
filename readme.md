@@ -16,9 +16,9 @@
    5.2. [git fetch](git%20fetch.md)
 6. [git remote add](git%20remoteadd.md)
 7. [git push](git%20push.md)
-8. 
-9. 
-10. 
+8. [git status](git%20push.md)
+9. [git log](git%20push.md)
+10. [git show](git%20push.md)
 
 
 
